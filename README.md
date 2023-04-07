@@ -26,4 +26,6 @@
 
 ## [網址]( https://darrenlucreate.github.io/Fake-News)
 
+## 參考資料
 
+http://blog.pulipuli.info/2017/11/fasttag-identify-part-of-speech-in.html
